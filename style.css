@@ -1,0 +1,14 @@
+.homebox{
+    margin: 5%;
+    text-align: center;
+    font-size: larger;
+    background-color: #FAECA5;
+}
+body{
+    background-color: #EFBC47;
+}
+
+.homebox-img {
+    width: 400px;
+    height: auto; 
+}
